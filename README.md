@@ -11,6 +11,15 @@ This repository contains Python code that simulates and visualizes the connectio
 - **Machine Learning Tensor Operations**: Demonstrates tensor reshaping operations relevant for ML applications
 - **Advanced Visualizations**: Multiple plots showing the relationship between GW data and relativistic effects
 
+Sample Output
+https://github.com/yourusername/ligo-relativity-tensor/assets/sample-output.mp4
+The video above demonstrates the visualization output from running the code, including:
+
+The animated gravitational wave signal detection
+Spectrogram transformation showing frequency evolution
+Dynamic tensor transformations under different Lorentz boosts
+Energy distribution visualization with relativistic effects
+
 ## Requirements
 - Python 3.6+
 - NumPy
