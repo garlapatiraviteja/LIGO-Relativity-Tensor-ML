@@ -13,7 +13,7 @@ This repository contains Python code that simulates and visualizes the connectio
 
 ## Sample Output
 
-https://github.com/yourusername/ligo-relativity-tensor/assets/sample-output.mp4
+https://github.com/garlapatiraviteja/LIGO-Relativity-Tensor-ML/tree/main/assests
 
 The video above demonstrates the visualization output from running the code, including:
 - The animated gravitational wave signal detection
